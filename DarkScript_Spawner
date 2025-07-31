@@ -1,2 +1,19 @@
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/uaOebtvtDC0a1OV7/raw", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-BananaHub/dark/refs/heads/main/darkzz"))()
+local StarterGui = game:GetService("StarterGui")
+
+-- First notification
+StarterGui:SetCore("SendNotification", {
+    Title = "YT: Adrian Scripts 📺",
+    Text = "Come back to my channel and comment 'Works' if it works!!",
+    Duration = 6
+})
+
+wait(6.5)
+
+-- Second notification
+StarterGui:SetCore("SendNotification", {
+    Title = "Let Me Know!",
+    Text = "That helps me & lets me know if there's any issue. 💬",
+    Duration = 6
+})
