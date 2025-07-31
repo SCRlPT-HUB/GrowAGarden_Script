@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/uaOebtvtDC0a1OV7/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/HCZegNdR/raw"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-BananaHub/dark/refs/heads/main/darkzz"))()
 
 local StarterGui = game:GetService("StarterGui")
