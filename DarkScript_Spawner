@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastefy.app/8xXGMYPI/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-BananaHub/NoLag/refs/heads/main/Duper-SpawnerGrowAGarden"))()
 
 local StarterGui = game:GetService("StarterGui")
 
